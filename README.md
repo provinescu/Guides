@@ -1,2 +1,2 @@
 # Guides
-Guides for Provinescu Software
+Guides for HP Software
